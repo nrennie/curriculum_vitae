@@ -1,0 +1,155 @@
+---
+title: "Nicola Rennie CV"
+author: Nicola Rennie
+date: r Sys.Date()
+output:
+  pagedown::html_resume:
+    css: 
+      - override.css         # OVERIDE CERTAIN FUNCTIONS OF CSS
+      - resume 
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Nicola Rennie](nicola.png){width=90%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> nrennie35@gmail.com
+- <i class="fa fa-home"></i> [nrennie.github.io](https://nrennie.github.io/)
+- <i class="fa fa-github"></i> [github.com/nrennie](https://github.com/nrennie)
+- <i class="fa fa-linkedin"></i> [nicola-rennie-076511b3](https://www.linkedin.com/in/nicola-rennie-076511b3/)
+- <i class="fa fa-twitter"></i> [nrennie35](https://twitter.com/nrennie35)
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Skilled in collaborating with clients to provide tailored solutions.
+
+- Experienced in forecasting, classification, outlier detection, data visualisation.
+
+- Highly skilled in R, Python, Markdown, LaTeX, Git.
+
+- Regular contributor to visualisation challenges including TidyTuesday and VizForSocialGood.
+
+
+
+Main
+================================================================================
+
+Nicola Rennie {#title}
+--------------------------------------------------------------------------------
+
+### Data Scientist
+
+Nicola Rennie is a statistician and data scientist, passionate about using R to aid in decision-making and create informative data visualisations to communicate findings. Creative, driven, and self-reliant.
+
+Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Data Scientist
+
+Jumping Rivers
+
+Remote, UK
+
+Nov 2021 - Present
+
+- Consulting on client projects and leading training courses in R.
+
+### Mathematical Consultant
+
+Smith Institute
+
+Oxford, UK
+
+Aug 2021 - Nov 2021
+
+- Applying a broad range of statistical techniques to different business challenges, and implementing solutions in programming languages including R and Python.
+
+### Graduate Teaching Assistant
+
+Lancaster University
+
+Lancaster, UK
+
+Oct 2018 - Jul 2021
+
+- Tutoring workshops in both Management Science and Statistics at undergraduate and postgraduate level.
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Lancaster University
+
+PhD in Statistics and Operational Research
+
+Lancaster, UK
+
+2021
+
+### Lancaster University
+
+MRes in Statistics and Operational Research
+
+Lancaster, UK
+
+2018
+
+### University of St Andrews
+
+BSc(Hons) in Mathematics
+
+St Andrews, UK
+
+2017
+
+Selected Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Identifying and responding to outlier demand in revenue management
+
+European Journal of Operational Research. Volume 293, Issue 3, 16 September 2021, 1015-1030.
+
+N/A
+
+2021
+
+**N. Rennie**, C. Cleophas, A. M. Syksulski, F. Dost
+
+- A full list of publications and conference presentations is available on my website: [nrennie.github.io/](https://nrennie.github.io/).
+
+
+Awards {data-icon=trophy}
+--------------------------------------------------------------------------------
+
+### Finalist of the 2021 Statistical Excellence Award for Early-Career Writing
+
+Significance and the RSS Young Statisticians Section.
+
+N/A
+
+Jul 2021
+
+
+### Nick Smith Prize for Research Excellence
+
+Lancaster University
+
+N/A
+
+Aug 2020
+
+::: aside
+Updated: `r format(Sys.time(), '%b %d, %Y')`.
+:::
+
