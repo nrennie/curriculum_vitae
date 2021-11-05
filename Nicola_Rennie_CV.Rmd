@@ -126,7 +126,7 @@ N/A
 
 **N. Rennie**, C. Cleophas, A. M. Syksulski, F. Dost
 
-- A full list of publications and conference presentations is available on my website: [nrennie.github.io/](https://nrennie.github.io/).
+- A full list of publications and conference presentations is available on my website: [nrennie.github.io](https://nrennie.github.io).
 
 
 Awards {data-icon=trophy}
