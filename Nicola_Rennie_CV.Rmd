@@ -29,7 +29,6 @@ Contact Info {#contact}
 - <i class="fa fa-linkedin"></i> [nicola-rennie-076511b3](https://www.linkedin.com/in/nicola-rennie-076511b3/)
 - <i class="fa fa-twitter"></i> [nrennie35](https://twitter.com/nrennie35)
 
-
 Skills {#skills}
 --------------------------------------------------------------------------------
 
