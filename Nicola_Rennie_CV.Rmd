@@ -23,8 +23,8 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> nrennie35@gmail.com
-- <i class="fa fa-home"></i> [nrennie.github.io](https://nrennie.github.io/)
+<!-- - <i class="fa fa-envelope"></i> nrennie35@gmail.com -->
+- <i class="fa fa-home"></i> [nrennie.rbind.io](https://nrennie.rbind.io/)
 - <i class="fa fa-github"></i> [github.com/nrennie](https://github.com/nrennie)
 - <i class="fa fa-linkedin"></i> [nicola-rennie-076511b3](https://www.linkedin.com/in/nicola-rennie-076511b3/)
 - <i class="fa fa-twitter"></i> [nrennie35](https://twitter.com/nrennie35)
