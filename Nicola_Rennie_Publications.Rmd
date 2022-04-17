@@ -1,0 +1,75 @@
+---
+title: "Nicola Rennie Publications"
+author: Nicola Rennie
+date: r Sys.Date()
+output:
+  pagedown::html_resume:
+    css: 
+      - override.css         # OVERIDE CERTAIN FUNCTIONS OF CSS
+      - resume 
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+
+Main
+================================================================================
+
+Nicola Rennie {#title}
+--------------------------------------------------------------------------------
+
+
+Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Identifying and responding to outlier demand in revenue management
+
+European Journal of Operational Research. Volume 293, Issue 3, 16 September 2021, 1015-1030. doi: [doi.org/10.1016/j.ejor.2021.01.002](https://doi.org/10.1016/j.ejor.2021.01.002).
+
+N/A
+
+2021
+
+**N. Rennie**, C. Cleophas, A. M. Syksulski, F. Dost
+
+
+Working Papers {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Analysing and visualising bike sharing demand with outliers.
+
+Pre-print: [arxiv.org/abs/2204.06112](https://arxiv.org/abs/2204.06112).
+
+N/A
+
+2022
+
+**N. Rennie**, C. Cleophas, A. M. Syksulski, F. Dost
+
+
+### Detecting outlying demand in multi-leg bookings for transportation networks
+
+Pre-print: [arxiv.org/abs/2104.04157](https://arxiv.org/abs/2104.04157).
+
+N/A
+
+2021
+
+**N. Rennie**, C. Cleophas, A. M. Syksulski, F. Dost
+
+
+### We're not getting any younger! Or should that be older?
+
+Significance. Upcoming online.
+
+N/A
+
+2021
+
+**N. Rennie**
