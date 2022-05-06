@@ -28,6 +28,16 @@ Nicola Rennie {#title}
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
+### We're not getting any younger! Or should that be older?
+
+Significance. <br> Online: [www.significancemagazine.com/science/723-we-re-not-getting-any-younger-or-should-that-be-older](https://www.significancemagazine.com/science/723-we-re-not-getting-any-younger-or-should-that-be-older).
+
+N/A
+
+2022
+
+**N. Rennie**
+
 ### Identifying and responding to outlier demand in revenue management
 
 European Journal of Operational Research. Volume 293, Issue 3, 16 September 2021, 1015-1030. doi: [doi.org/10.1016/j.ejor.2021.01.002](https://doi.org/10.1016/j.ejor.2021.01.002).
@@ -63,13 +73,3 @@ N/A
 
 **N. Rennie**, C. Cleophas, A. M. Syksulski, F. Dost
 
-
-### We're not getting any younger! Or should that be older?
-
-Significance. Upcoming online.
-
-N/A
-
-2021
-
-**N. Rennie**
